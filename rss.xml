@@ -1,14 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 22 Sep 2020 13:37:07 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 4]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har fortsatt jobbet med bransläckaren Vad har gått bra? Ge exempel på hur du löst problem! Jag har…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-4</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-4</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 21 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
-&lt;p&gt;Jag har fortsatt jobbet med bransläckaren&lt;/p&gt;
-&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
-&lt;p&gt;Jag har fått den fom som jag vill ha på själva strukturen och lägger nu till de mindre detaljerna.
-&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940431152611338/20-09-22_1.png&quot; alt=&quot;enter image description here&quot;&gt;
-&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940444691955723/20-09-22_2.png&quot; alt=&quot;enter image description here&quot;&gt;
-&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940459698913311/20-09-22_3.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
-&lt;p&gt;Det ändå som inte har gåt bra är att jag jobbar inte super snabbt&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Wed, 23 Sep 2020 09:35:43 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Fabian: Loggbok 5]]></title><description><![CDATA[Idag började jag med att främst fokusera på städning av projektets kod där jag förbättrade några funktioner jag tidigare gjort så de är mer…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-5</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-5</guid><category><![CDATA[unity]]></category><category><![CDATA[ui]]></category><category><![CDATA[menu]]></category><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag började jag med att främst fokusera på städning av projektets kod där jag förbättrade några funktioner jag tidigare gjort så de är mer resursvänliga. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.discordapp.net/attachments/501452852364050443/758237718445686804/unknown.png&quot; alt=&quot;code&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Jag gjorde en adminpanel i spelet där man kan skapa rum, men vi planerar på att lägga till fler funktioner som kommer göra vårt arbete lättare, till exempel förmågan att starta matcher, ge ut föremål, ändra värden etc. Denna meny går att öppna med F1, men behöver ett lösenord om man spelar i en build. I Unity editorn är inget lösenord nödvändigt. &lt;img src=&quot;https://i.imgur.com/wyPixu3.png&quot; alt=&quot;admin meny&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Detta blev inte klart idag, men la även till ett intro till spelet: &lt;a href=&quot;https://youtu.be/ON8JDRecurA&quot;&gt;https://youtu.be/ON8JDRecurA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Planen med det är att det ska se ut som något vanligt &quot;snällt&quot; spel typ, och sedan från ingenstans kommer det fram att det är ett fighting-spel. Introt kommer förmodligen bli längre och gå att skippa i framtiden.&lt;/p&gt;
+&lt;p&gt;Kan inte säga mycket om samarbete denna lektion, jag och Alexander pratade lite om hur vi skulle placera hissar och hål i väggar för att lättare tillåta spelare att förflytta sig.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 5]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har fortsatt jobbet med brandsläckaren och har skrivit på projektplanens frågeställning Vad har…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-5</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-5</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;Jag har fortsatt jobbet med brandsläckaren och har skrivit på projektplanens frågeställning&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Jag är väldigt nöjd med det jag gjorde idag och ser fram emot att jobba mer
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/758254870154706944/20-09-23_2.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/758249970540347402/20-09-23_1.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Inget har direkt gått dåligt jag jobbar relativt effektivt just nu&lt;/p&gt;
 &lt;p&gt;Vad ska du jobba med härnäst?
-Ska fortsätta med Brandsläckar projektet och bli klar med den innan jag fortsätter&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 4]]></title><description><![CDATA[Idag har jag gjort en karta för klassrummen och korridoren på våning 3, samt tagit bilder och mätt föremål på plats. Alla bilder finns i vår…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-4</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-4</guid><category><![CDATA[design]]></category><category><![CDATA[figma]]></category><category><![CDATA[unity]]></category><pubDate>Mon, 21 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag gjort en karta för klassrummen och korridoren på våning 3, samt tagit bilder och mätt föremål på plats. Alla bilder finns i vår &lt;a href=&quot;https://drive.google.com/drive/u/1/folders/1Z9b9rF8Np3e90IX1lw8HAiw3F2BqXLpz&quot;&gt;drivemapp&lt;/a&gt;, och alla kartor jag ritat finns &lt;a href=&quot;https://drive.google.com/drive/u/1/folders/1va5ctPUbxuqtfhCKkReN67-gSBofrbVp&quot;&gt;här&lt;/a&gt;.&lt;/p&gt;
+Ska fortsätta med brandsläckar projektet och bli klar med den innan jag fortsätter&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 4]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Jag laddade upp lampan jag gjorde i Blender för digdigen till projektet då den redan var klar i stort…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-4</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-4</guid><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Jag laddade upp lampan jag gjorde i Blender för digdigen till projektet då den redan var klar i stort sett.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Något fungerade iallafall... Börjat arbeta i Blender nu och typ gett upp om Maya.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Vet ej&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Fortsätta modellera i Blender&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+Jag får stöd av de andra då min hjärna inte är på topp&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 6]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Denna lektionen har jag inte lyckats göra mycket eftersom maya inte lyckades unfolda min model. Vad…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-6</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-6</guid><category><![CDATA[tag]]></category><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Denna lektionen har jag inte lyckats göra mycket eftersom maya inte lyckades unfolda min model.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Ingenting  gick väl denna lektion eftersom maya crashade 5 gånger när jag unfoldar min sfär.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Att mappa uv har gått extremt dåligt då unfold gör att mitt uv blir några pixlar stora i uv editor.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Jag hittade en guide och tråd med samma ish problem som jag ska följa nästa lektion.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+Denna lektion har vi inte pratat så mycket men vi har skrivit med jämna mellanrum.&lt;/p&gt;
+&lt;p&gt;Lägg in bilder på processen, tex screenshots!
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/758254557347184650/758258488626774026/unknown.png&quot; alt=&quot;Mitt sista försök denna lektion&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Samuel: Loggbok 3]]></title><description><![CDATA[1. Vad har du gjort sen förra loggboken? Jag har har fått en färdig 3d modell med fps kontroller att fungera i mitt projekt och skapat en…]]></description><link>https://sajber.me/gymnasiearbete//samuel-loggbok-3</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//samuel-loggbok-3</guid><category><![CDATA[unity]]></category><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt; &lt;strong&gt;1. Vad har du gjort sen förra loggboken?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jag har har fått en färdig 3d modell med fps kontroller att fungera i mitt projekt och skapat en sandbox scene med några hinder för att testa spelaren under utvecklingens gång.  Jag har även kort börjat titta på en pun2 tutorial för att testa det i min 3d miljö. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;2. Vad har gått bra? Ge exempel på hur du löst problem!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Allt har går relativt bra, men jag har inte behövt lösa något särskilt stort problem idag.&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;3. Vad har gått mindre bra?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jag har inget att rapportera här idag. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Vad ska du jobba med härnäst?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Härnäst ska jag gå igen pun2 tutorials för att sedan kunna testa online systemet i min 3d sandbox miljö med min spelare. Och om jag hinner så försöker jag börja med att implementera ett vapen som spelaren ska kunna hålla.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. (Hur fungerar samarbetet?)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Det har gått bra idag. Jag har jobbat på själv i unity hela lektionen. Fick lite hjälp från Fabian med en idé på vad jag ska göra härnäst i projektet.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 5]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? sen föra loggboke nså har jag lagt till fönster och planerat lite hur jag ska göra med dom inre rummen…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-5</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-5</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 22 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sen föra loggboke nså har jag lagt till fönster och planerat lite hur jag ska göra med dom inre rummen i haga. vi har tänkt läga in en hiss i haga som kommer leda till
+vanadishuset och så har jag ändrat lite på hållen mellan klassrumen så det ser mer ut som om något har slagit sej igenom mer än en dörr.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/758258434684092427/Screenshot_98.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/758258436382130176/Screenshot_97.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/758258438131941376/Screenshot_96.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;det som har gott bra är att fönstrena matchar bra med klassrummen och jag har gjort så jag alltid kan ändra höjde på den. jag ahde ett problem vilket jag fixade genom att
+starta om programet. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jag lyckades fixa ett problem med att golvet duplicerade på något sätt med att starta om en bit. jag förlorade ändringarna jag har gjort med hållen mellan klassrummen
+men jag har fixat tillbacka dom.
+Jag får fortfarande några problem när jag använde multi-cut på golvet vilket jag kommer behöva kolla senare. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;vad jag ska jobba med här näst är att fortsätta lite med fönsterna och senare arbeta med dom inre rummen i hagahuset. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sammarbetet har fungerat bra igenom att fabian gav mej ider om hur det ska se ut vid hållen mellan klassrummen och så hjälpte jag alfred med hur man duplicerar i maya.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 4]]></title><description><![CDATA[Idag har jag gjort en karta för klassrummen och korridoren på våning 3, samt tagit bilder och mätt föremål på plats. Alla bilder finns i vår…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-4</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-4</guid><category><![CDATA[maps]]></category><category><![CDATA[unity]]></category><pubDate>Mon, 21 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag gjort en karta för klassrummen och korridoren på våning 3, samt tagit bilder och mätt föremål på plats. Alla bilder finns i vår &lt;a href=&quot;https://drive.google.com/drive/u/1/folders/1Z9b9rF8Np3e90IX1lw8HAiw3F2BqXLpz&quot;&gt;drivemapp&lt;/a&gt;, och alla kartor jag ritat finns &lt;a href=&quot;https://drive.google.com/drive/u/1/folders/1va5ctPUbxuqtfhCKkReN67-gSBofrbVp&quot;&gt;här&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/757882792037187625/757883418154631188/IMG_20200922_103430.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/TglxsPk.png&quot; alt=&quot;Drive&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Efter detta så testade jag lite 3d-karaktärer i Unity då Samuel hade haft problem med det, och det gick bra. &lt;/p&gt;
@@ -31,7 +91,17 @@ Ska fortsätta med Brandsläckar projektet och bli klar med den innan jag forts�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Samarbetet idag har också gått bra, jag och Alfred mätte tillsammans och jag och Alexander testade hur vi ska kunna uppdatera byggnader i Unity, vilket vi lyckades med. &lt;/p&gt;
-&lt;p&gt;Nästa onsdag (30/9) ska jag förmodligen låna en kamera och fixa texturer till utanför byggnader i spelet.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 5]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+&lt;p&gt;Nästa onsdag (30/9) ska jag förmodligen låna en kamera och fixa texturer till utanför byggnader i spelet.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 4]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har fortsatt jobbet med bransläckaren Vad har gått bra? Ge exempel på hur du löst problem! Jag har…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-4</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-4</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 21 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;Jag har fortsatt jobbet med bransläckaren&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;p&gt;Jag har fått den fom som jag vill ha på själva strukturen och lägger nu till de mindre detaljerna.
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940431152611338/20-09-22_1.png&quot; alt=&quot;enter image description here&quot;&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940444691955723/20-09-22_2.png&quot; alt=&quot;enter image description here&quot;&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/757940459698913311/20-09-22_3.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;p&gt;Det ändå som inte har gåt bra är att jag jobbar inte super snabbt&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Ska fortsätta med Brandsläckar projektet och bli klar med den innan jag fortsätter&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 5]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
 Denna lektion har jag mätt många saker i skolan samt arbetat med den gråa stolen i hagahuset. 
 För att…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-5</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-5</guid><category><![CDATA[tag]]></category><pubDate>Mon, 21 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
 Denna lektion har jag mätt många saker i skolan samt arbetat med den gråa stolen i hagahuset.
