@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Wed, 07 Oct 2020 09:10:11 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 8]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag ar lagt på färg på brandsläckaren och har hållit på att trixa med olika texturer.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Wed, 07 Oct 2020 09:11:19 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 8]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag ar lagt på färg på brandsläckaren och har hållit på att trixa med olika texturer.
 enter image…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-8</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-8</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 06 Oct 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;p&gt;Jag ar lagt på färg på brandsläckaren och har hållit på att trixa med olika texturer.
 &lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/763325511413661696/20-10-07_1.png&quot; alt=&quot;enter image description here&quot;&gt;
@@ -8,7 +8,18 @@ enter image…]]></description><link>https://sajber.me/gymnasiearbete//alfred-lo
 &lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
 &lt;p&gt;Inget har gått mindre bra&lt;/p&gt;
 &lt;p&gt;Vad ska du jobba med härnäst?
-Ska texturera brandsläckaren och sen är jag klar&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 7]]></title><description><![CDATA[Idag har jag börjat jobba på ett system för att hantera föremål i vårt spel. Man kan nu skapa dem direkt via Unity, och därifrån ställa in…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-7</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-7</guid><category><![CDATA[unity]]></category><category><![CDATA[ui]]></category><category><![CDATA[items]]></category><pubDate>Tue, 06 Oct 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag börjat jobba på ett system för att hantera föremål i vårt spel. Man kan nu skapa dem direkt via Unity, och därifrån ställa in all statistik:&lt;/p&gt;
+Ska texturera brandsläckaren och sen är jag klar&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 6]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Fixat gamla assets, samt whiteboard Vad har gått bra? Ge exempel på hur du löst problem!
+Vet hur jag…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-6</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-6</guid><pubDate>Tue, 06 Oct 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Fixat gamla assets, samt whiteboard&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Vet hur jag ska ta mig framåt.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Dunno, allt har gått bra&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Obestämt for now&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+Perfekt! :D&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 7]]></title><description><![CDATA[Idag har jag börjat jobba på ett system för att hantera föremål i vårt spel. Man kan nu skapa dem direkt via Unity, och därifrån ställa in…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-7</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-7</guid><category><![CDATA[unity]]></category><category><![CDATA[ui]]></category><category><![CDATA[items]]></category><pubDate>Tue, 06 Oct 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag börjat jobba på ett system för att hantera föremål i vårt spel. Man kan nu skapa dem direkt via Unity, och därifrån ställa in all statistik:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/501452852364050443/763323798132621312/unknown.png&quot; alt=&quot;Weapon creation&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/501452852364050443/763324140702531594/unknown.png&quot; alt=&quot;Weapon config&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/501452852364050443/763324544545980436/unknown.png&quot; alt=&quot;Database&quot;&gt;&lt;/p&gt;
@@ -54,17 +65,6 @@ Vet hur jag ska ta mig framåt.&lt;/p&gt;
 Vill gärna använda Maya, ska gå till IT och resetta laptopen.&lt;/p&gt;
 &lt;p&gt;Vad ska du jobba med härnäst?
 Whiteboard samt annat obestämt.&lt;/p&gt;
-&lt;p&gt;(Hur fungerar samarbetet?)
-Perfekt! :D&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 6]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
-Fixat gamla assets, samt whiteboard Vad har gått bra? Ge exempel på hur du löst problem!
-Vet hur jag…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-6</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-6</guid><pubDate>Tue, 29 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
-Fixat gamla assets, samt whiteboard&lt;/p&gt;
-&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
-Vet hur jag ska ta mig framåt.&lt;/p&gt;
-&lt;p&gt;Vad har gått mindre bra?
-Dunno, allt har gått bra&lt;/p&gt;
-&lt;p&gt;Vad ska du jobba med härnäst?
-Obestämt for now&lt;/p&gt;
 &lt;p&gt;(Hur fungerar samarbetet?)
 Perfekt! :D&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 6]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har fokuserat på projektplanen så den blir klar och tittat på lite maya videor för att få…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-6</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-6</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 28 Sep 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;p&gt;Jag har fokuserat på projektplanen så den blir klar och tittat på lite maya videor för att få inspiration och idéer.&lt;/p&gt;
