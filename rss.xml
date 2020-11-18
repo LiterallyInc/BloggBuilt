@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 10 Nov 2020 12:45:59 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Fabian: Loggbok 12]]></title><description><![CDATA[Idag har jag börjat jobba på system för att skapa föremål och placera dem i spelet. Igår skrev jag ett par idéer / koncept med själva spelet…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-12</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-12</guid><category><![CDATA[unity]]></category><category><![CDATA[game]]></category><category><![CDATA[rpc]]></category><pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag börjat jobba på system för att skapa föremål och placera dem i spelet. Igår skrev jag ett par idéer / koncept med själva spelet, vilket mitt arbete idag är baserat på. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Wed, 18 Nov 2020 10:13:48 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alex Lektionslogg 13]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? jag har finpolerat vanadishuset och detaljerat lite och lagt in lite dörrar och så har jag börjat…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-13</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-13</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 17 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag har finpolerat vanadishuset och detaljerat lite och lagt in lite dörrar och så har jag börjat texturera genom att använda UV planar som har gjort så texturerna liger som dom ska.
+Jag har också använt mej av extrude och target weld för att bilda en väg mellan fönstrena och själva vägen.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/778561774827995136/Screenshot_128.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/778561772927451185/Screenshot_127.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/778561771769167872/Screenshot_126.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/778561769168961536/Screenshot_125.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jag har för det mesta gjort klart våningen och behöver för det mesta bara texturera kvar. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;en sak som inte gick bra är att jag kunde inte hitta texturer som passade in på vissa ställen. Jag kommer få hoppa över den delen nu och köra en annan textur medans tills jag hittar en som passar. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;härnäst så kommer jag trodligen börja på våning 5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Idag så har jag inte jobbat så mycket med dom andra och istället fokuserat på uppgiften.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 9.5]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Fortsatt med matsalsbordet Vad har gått bra? Ge exempel på hur du löst problem!
+Har försökt göra…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-9-5</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-9-5</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 17 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Fortsatt med matsalsbordet&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Har försökt göra bordets surface, trä realistiskt med små skåror...&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Hjärntrött pöjk, as always :(&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+forts. med matsals bord samt klocka&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+Som alltid, bra&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 13]]></title><description><![CDATA[Idag har jag främst jobbat med spawnlogiken för loot i spelet, dvs koden som bestämmer vart föremål ska spawna, vilket föremål som ska komma…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-13</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-13</guid><category><![CDATA[unity]]></category><category><![CDATA[items]]></category><category><![CDATA[loot]]></category><pubDate>Tue, 17 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag främst jobbat med spawnlogiken för loot i spelet, dvs koden som bestämmer vart föremål ska spawna, vilket föremål som ska komma dit och metoder för oss att ändra oddsen från fall till fall. &lt;/p&gt;
+&lt;p&gt;Allt har gått bra, när spelet startas skapas en lista med alla föremål, och föremål som är viktade förekommer flera gånger, så till exempel ett sällsynt vapen kanske är viktad med 1, och ett vanligt viktat 5. Då när spelet ska välja ett vapen så förekommer det vanliga vapnet 4 gånger mer i listan, och har därför större odds att bli slumpmässigt utvalt. Koden för detta är simpel, den går igenom alla vapen varsin gång och lägger till extra om den väger mer:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.discordapp.net/attachments/501452852364050443/778561529381257216/unknown.png&quot; alt=&quot;Weight&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Har inte diskuterat mycket med gruppmedlemmarna idag, men hjälpte Patrik lite med hans spel också.&lt;/p&gt;
+&lt;p&gt;Dagens affisch:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/501452852364050443/778559782873333760/cafe_620x877.jpg&quot; alt=&quot;Bland-S&quot;&gt;&lt;/p&gt;
+&lt;p&gt;(baserad på)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blend-s.us/sp/assets/img/top/logo.png&quot; alt=&quot;blend-s&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 13]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har modelerat ett skåp och hållit på och tittat på möjliga texturer
+enter image description here…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-13</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-13</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 17 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;Jag har modelerat ett skåp och hållit på och tittat på möjliga texturer
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/778561721828376596/20-11-18_1.png&quot; alt=&quot;enter image description here&quot;&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/493512369662590977/778561735467991040/20-11-18_2.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;p&gt;Jobbat effektivt utan störande &lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;p&gt;Nein&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Fortsätt med skåpet&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 9]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Matsalsbord Vad har gått bra? Ge exempel på hur du löst problem!
+Arbetet... Vad har gått mindre bra…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-9</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-9</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 16 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Matsalsbord&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Arbetet...&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Hjärntrött pöjk, as always :(&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+forts. med matsals bord samt klocka&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+Som alltid, bra&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 17]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Sedan förra lektionen har jag arbetat med en modell av stolarna från matsalen. Vad har gått bra? Ge…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-17</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-17</guid><category><![CDATA[tag]]></category><pubDate>Tue, 10 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;br&gt;
+Sedan förra lektionen har jag arbetat med en modell av stolarna från matsalen.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;br&gt;
+Att göra basen för modellen gick bra.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?&lt;br&gt;
+Men hade problem med att få högre res på en yta eftersom verteces runt edgen gör det svårt.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Nästa lektion ska jag göra klart matsal stolen.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
+Jo det går bra, jag och fabian har skrivit under lektionen.
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/482137548681117717/775698726424412160/unknown.png&quot; alt=&quot;Dörren&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 8]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+Fixat klassrumslampan, var lite scuffed. Matsalsbord, börjat med det runda också. text text Vad har…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-8</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-8</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 10 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+Fixat klassrumslampan, var lite scuffed. Matsalsbord, börjat med det runda också.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.discordapp.net/attachments/684766830010826799/776023048213889054/unknown.png?width=956&amp;#x26;height=661&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/684766830010826799/776022892365742080/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!
+Nu när jag verkligen vet hur jag ska göra saker i blender så går det som smort. :)&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?
+Nada.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Fortsätta med det runda matsalsbordet.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 12]]></title><description><![CDATA[Idag har jag börjat jobba på system för att skapa föremål och placera dem i spelet. Igår skrev jag ett par idéer / koncept med själva spelet…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-12</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-12</guid><category><![CDATA[unity]]></category><category><![CDATA[game]]></category><category><![CDATA[rpc]]></category><pubDate>Mon, 09 Nov 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag börjat jobba på system för att skapa föremål och placera dem i spelet. Igår skrev jag ett par idéer / koncept med själva spelet, vilket mitt arbete idag är baserat på. &lt;/p&gt;
 &lt;h2 id=&quot;idéer-på-github-igår&quot;&gt;&lt;a href=&quot;#id%C3%A9er-p%C3%A5-github-ig%C3%A5r&quot; aria-label=&quot;idéer på github igår permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Idéer på Github (igår)&lt;/h2&gt;
 &lt;p&gt;Idéerna igår handlar till exempel om hur loot ska bli programmerat och placerat för alla, hur man gör transport i spelet enklare och hur man kan effektivt hindra matcher från att bli för långa. &lt;/p&gt;
 &lt;p&gt;Alla trådar för idéer kommer vara samlade &lt;a href=&quot;https://github.com/LiterallyInc/SajberRoyale/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+mechanic+%2F+idea%22&quot;&gt;här på projektets GitHub&lt;/a&gt;  för att göra det enkelt för oss att sortera och samarbeta på idéer. Här är två av trådarna (på engelska då vi är vanare med engelska spel- &amp;#x26; programmeringsord):&lt;/p&gt;
