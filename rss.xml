@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Wed, 09 Dec 2020 10:26:19 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 18]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har lyckats exportera alla filer till github så Fabian kan komma åt dom.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 15 Dec 2020 12:31:38 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 19]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har hållit på att jobba med spelanalysen. 
+Det spel som jag håller på att analysera heter Apex…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-19</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-19</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 14 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;Jag har hållit på att jobba med spelanalysen.
+Det spel som jag håller på att analysera heter Apex Legends.
+Jag har en bra idé på hur jag kommer att prata om spelet och vad för klipp jag ska visa.
+Det hjälper också att jag är väldigt förtjust i spelet och över 1000 timmar i det :)&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;p&gt;Har börjat rulla bollen på idéer om vad jag kan skriva om Apex Legends.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;p&gt;Nein&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Fortsätta med analysen&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 19]]></title><description><![CDATA[Idag har jag fortsatt på inventory systemet i spelet vilket har gått okej. Man kan nu använda 1-5 knapparna på tangentbordet för att ändra…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-19</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-19</guid><category><![CDATA[unity]]></category><category><![CDATA[photon]]></category><category><![CDATA[loot]]></category><pubDate>Mon, 14 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag fortsatt på inventory systemet i spelet vilket har gått okej. Man kan nu använda 1-5 knapparna på tangentbordet för att ändra vald ruta, men än så länge fungerar inte det att bläddra av någon anledning, och om man bläddrar pausas Unity. Tror jag behöver uppdatera Unity då jag kör ~5 versioner bakom, men det gör jag efter lektionen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YDGdKzS.png&quot; alt=&quot;hotbar&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Man kan även ta upp föremål man kollar på, men än visas de ej i hotbaren.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Tekspec 2]]></title><description><![CDATA[Tagit screenshots på spelet, the basics.
+Var svårt att få några bilder då de är ovanliga att hitta. Har annars tänkt på vad jag ska skriva…]]></description><link>https://sajber.me/gymnasiearbete//oscar-tekspec-2</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-tekspec-2</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 14 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tagit screenshots på spelet, the basics.
+Var svårt att få några bilder då de är ovanliga att hitta.&lt;/p&gt;
+&lt;p&gt;Har annars tänkt på vad jag ska skriva härnäst.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 18]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Idag så har jag först börjat med att textrurera våning 5 och sen så har jag behövt fixa våning 6…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-18</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-18</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 14 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Idag så har jag först börjat med att textrurera våning 5 och sen så har jag behövt fixa våning 6 pågrund av att jag hade problem då massa vertexes har flytat på sej.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/489028013951025153/788355926422978570/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/483929451747344406/788357278511267850/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag har för det mesta lyckats fixa våning 6 då vertexen har flytat på sej. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/788381090926034954/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag skulle ha texturerat och börjat med att läga ihop dom men jag behövde spendera lektionen till att fixa våning 6 istället vilket tog en massa tid.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;trodligen fixa det sista som behövs på våning 6 och sedan fortsätta med det som behövs.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 23]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Sedan förra lektionen har jag fixat maya (tror jag) samt gjort klart och texturerat matsals stolen…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-23</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-23</guid><category><![CDATA[tag]]></category><pubDate>Mon, 14 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;br&gt;
+Sedan förra lektionen har jag fixat maya (tror jag) samt gjort klart och texturerat matsals stolen.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;br&gt;
+Att avsluta stolen gick bra då jag gjorde den lite mer intresant genom att göra sittytan lite bredare vid fronten.
+Att börja på panthållaren gick även snabbt och väl eftersom basen på den är så simpel.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?&lt;br&gt;
+Att göra ryggstödet var svårt speciellt när den sedan ska ha nog hög upplösning för att kunna böjas med en mjuk kurva.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Nästa modell jag ska göra är panthållaren.
+Jag håller redan på med en simulation (ncloth) för att soppåsen ska se lite mer natulig ut, när en är klar ska jag spara dens shape key och göra det till modellens standard shape och ta bort alla ncloth nuclei.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
+Det går bra.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/482137548681117717/788380780329173012/unknown.png&quot; alt=&quot;Bör vara halvvägs klar redan&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 18]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har lyckats exportera alla filer till github så Fabian kan komma åt dom.
 Jag har också gjort en…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-18</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-18</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 08 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;p&gt;Jag har lyckats exportera alla filer till github så Fabian kan komma åt dom.
 Jag har också gjort en till enklare 3d modell.
@@ -49,7 +95,7 @@ Att göra ryggstödet var också svårt då dess form är svår att få till uta
 Fixa maya samt avsluta stolen.&lt;/p&gt;
 &lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
 Det går bra.&lt;/p&gt;
-&lt;p&gt;kan tyvärr inte ta en bild på någon model.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Samuel: Loggbok 10]]></title><description><![CDATA[1. Vad har jag gjort idag? Idag hade jag bestämt mig att kolla igenom fler photon demon för att kunna få en bättre förståelse för hur photon…]]></description><link>https://sajber.me/gymnasiearbete//samuel-loggbok-10</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//samuel-loggbok-10</guid><category><![CDATA[gymarbete]]></category><pubDate>Tue, 08 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;1. Vad har jag gjort idag?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;kan tyvärr inte ta en bild på någon model.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Samuel: Loggbok 10]]></title><description><![CDATA[1. Vad har jag gjort idag? Idag hade jag bestämt mig att kolla igenom fler photon demon för att kunna få en bättre förståelse för hur photon…]]></description><link>https://sajber.me/gymnasiearbete//samuel-loggbok-10</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//samuel-loggbok-10</guid><category><![CDATA[gymarbete]]></category><category><![CDATA[unity]]></category><category><![CDATA[photon]]></category><pubDate>Tue, 08 Dec 2020 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;1. Vad har jag gjort idag?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Idag hade jag bestämt mig att kolla igenom fler photon demon för att kunna få en bättre förståelse för hur photon fungerar och ska användas. För att förhoppningsvis kunna fixa de problem som jag har i mitt egna projekt.&lt;/p&gt;
 &lt;p&gt;Jag har även märkt att prefab controllern som jag har använt hittils kanske måste bytas ut eller justeras mera än vad jag hade tänkt innan. Den har visat sig vara ganska krånglig att använda photon systemet på den.&lt;/p&gt;
 &lt;p&gt;Här är ett av demoprojekten som finns i unity. Jag kollar på hur detta projekt fungerar och är uppbyggt.&lt;img src=&quot;https://cdn.discordapp.com/attachments/768401483087347722/786172750519205898/unknown.png&quot; alt=&quot;photon tutorial1&quot;&gt;&lt;/p&gt;
