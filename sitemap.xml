@@ -3,6 +3,7 @@
 <url> <loc>https://sajber.me/gymnasiearbete/alex-lektionslogg-21</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/alfred-loggbok-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/melwin-loggbok-26</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sajber.me/gymnasiearbete/fabian-loggbok-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/samuel-loggbok-14</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/fabian-loggbok-21</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/alfred-loggbok-21</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -131,11 +132,11 @@
 <url> <loc>https://sajber.me/gymnasiearbete/tags/om-ni-vill/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/bottom-text/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/tag/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sajber.me/gymnasiearbete/tags/gymarbete/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/unity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sajber.me/gymnasiearbete/tags/planering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/inventory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/loot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sajber.me/gymnasiearbete/tags/gymarbete/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sajber.me/gymnasiearbete/tags/planering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/photon-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/photon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/tags/teknikspec-analys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -161,8 +162,8 @@
 <url> <loc>https://sajber.me/gymnasiearbete/alexander/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/alfred/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/melwin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sajber.me/gymnasiearbete/samuel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/fabian/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sajber.me/gymnasiearbete/samuel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/oscar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/info/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sajber.me/gymnasiearbete/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
