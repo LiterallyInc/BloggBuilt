@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 26 Jan 2021 12:42:50 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 25]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har Skrivit lite mer på spelanalysen men har också jobbat med gymnasiearbetet. Jag fortsatte och…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-25</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-25</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 25 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 26 Jan 2021 12:49:07 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Alfred Loggbok 25]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har Skrivit lite mer på spelanalysen men har också jobbat med gymnasiearbetet. Jag fortsatte och…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-25</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-25</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 25 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;p&gt;Jag har Skrivit lite mer på spelanalysen men har också jobbat med gymnasiearbetet. Jag fortsatte och slutförde jobbet på haga stolen och bordet.
 Gjorde en ny textur för bordet eftersom jag ville ge den en istället för att låta den vara vit.
 jag använde samma sätt som på stolen för att ändra färgen på en viss textur.
@@ -41,7 +41,37 @@ Fortsätta modellera&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5NtT2Fs.png&quot; alt=&quot;HUD&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/oZ2gCfO.png&quot; alt=&quot;Compass&quot;&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 24]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har hållit på att ändra färg på en textur för att matcha stolarna som vi har i skolan.
+&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 28]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Sedan förra lektionen har jag fixat och texturerat oscars matsalsbord. Vad har gått bra? Ge exempel på…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-28</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-28</guid><category><![CDATA[tag]]></category><pubDate>Mon, 25 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;br&gt;
+Sedan förra lektionen har jag fixat och texturerat oscars matsalsbord.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;br&gt;
+Att göra texturerna i photoshop över UV shell gick snabbt och lätt.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?&lt;br&gt;
+Att göra brandsläckarens knapp gick så dåligt att jag inte lyckades avsluta den, Verktyg och UV på den var väldigt konstiga och jag fattar inte varför.
+Efter att ha tampats med knappen gav jag upp och fixade texturer och UV på oscars matsalsbord, Dock så verkar UV i maya 2020 vara felaktiga då cut/sew inte funkar på många edges där de vanligtvis brukar funka.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Nästa lektion ska jag fortsätta med saker som måste göras och hjälpa andra med modeller som behövs.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
+Det går bra.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/482137548681117717/803601495475224627/unknown.png&quot; alt=&quot;Bordet&quot;&gt;
+I denna bild råkade jag koppla en bild jag har ritat på transparency attributet i hypershade.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 23]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? sen föra logboken så har jag fixat småsaker som fabian ville jag skulle fixa som att lägga till en dör…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-23</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-23</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 25 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sen föra logboken så har jag fixat småsaker som fabian ville jag skulle fixa som att lägga till en dör och ändra färg på vissa saker och börjat läga tegelstenspatten på väggen.
+Jag har också testat lite med UV mapping för att försöka få texturer på väggen. jag har använt planar för att få en UV och senare så har jag exporterat en UV till photoshop så man kan fixa
+tegelstenen där. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/803604239645147186/Screenshot_154.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/803604238323417148/Screenshot_153.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/489028013951025153/803582008437637150/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag har fixat sakerna som fabian påpekade utan att få några problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jag ska fixa staketet och ändra lite med texturer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)
+-Jag har pratat lite med fabian om hans åsikter på vissa saker och så kommer fabian hjälpa mej lite med tegelstenstexturen på väggen.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 24]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har hållit på att ändra färg på en textur för att matcha stolarna som vi har i skolan.
 Jag använde…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-24</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-24</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 19 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;p&gt;Jag har hållit på att ändra färg på en textur för att matcha stolarna som vi har i skolan.
 Jag använde photoshop för att ändra färg på en textur som jag tidigare hade använt.
