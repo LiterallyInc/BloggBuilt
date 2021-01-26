@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 19 Jan 2021 13:11:47 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Fabian: Loggbok 23]]></title><description><![CDATA[Idag har jag och Alexander tillsammans kollat igenom byggnaderna vi ska ha i spelet, och texturerat det som saknar texturer. Vi har även…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-23</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-23</guid><category><![CDATA[unity]]></category><category><![CDATA[inventory]]></category><category><![CDATA[loot]]></category><pubDate>Mon, 18 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag och Alexander tillsammans kollat igenom byggnaderna vi ska ha i spelet, och texturerat det som saknar texturer. Vi har även sett till att fixa de övriga modellernas texturer där det behövts. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 26 Jan 2021 12:36:23 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Fabian: Loggbok 24]]></title><description><![CDATA[Oh man, eftersom jag är jag kommer jag ibland börja jobba på något i timmar per dag utan någon som helst anledning (fråga Ludwig). Här är en…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-24</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-24</guid><category><![CDATA[unity]]></category><category><![CDATA[basically]]></category><category><![CDATA[allt]]></category><pubDate>Mon, 25 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Oh man, eftersom jag är jag kommer jag ibland börja jobba på något i timmar per dag utan någon som helst anledning (fråga Ludwig). Här är en snabb lista på allt jag gjort mellan dessa två lektioner, i kronologisk ordning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Om-indexerat och skapat prefabs för alla 3d-modeller&lt;/strong&gt;, tidigare har basmodellen legat i sin egna mapp så man behövt jobba med den när man ska placera den, nu ligger allt i kategorier färdigt att bli utplacerade med colliders, färg och rätt storlek:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/B2IWZRW.png&quot; alt=&quot;Index&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gjort om hela rum-systemet&lt;/strong&gt;, nu har exakt alla rum sin egna box collider taggad med rummets namn, samt en lista på alla lampor som finns i rummet. På detta sätt kan spelaren få veta vilket rum den är i, och när ett rum avaktiveras behöver spelet inte leta efter alla lampor, de kan bara gå igenom allt i den färdiga listan.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ztJDJND.png&quot; alt=&quot;Room Node&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Börjat dekorera ett par rum, t.ex. våning 6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/0ESnmUm.jpg&quot; alt=&quot;V6&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Börjat arbeta på ett &quot;hemsökt&quot; rum,&lt;/strong&gt; detta får du dock se själv i spelet senare. :)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fixat klart multiplayer-systemet.&lt;/strong&gt; Woohoo, nu kan man äntligen gå in i matcher tillsammans och se varandra i realtid! Man använder samma meny för att skapa och gå med i spel, om namnet börjar med ett @ så skapas rummet, annars joinar man. Man kommer även ha olika utseenden, och dessa får man random baserat på matchens unika ID, och platsen man gick med på, på så sätt blir de synkade för alla.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Y98Wr1d.png&quot; alt=&quot;Join&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/W4Hw3RN.jpg&quot; alt=&quot;Multiplayer&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Skapat en fungerande klocka.&lt;/strong&gt; 3D-modellen är nerladdad från internet, men jag har gjort så att visarna rör sig till den verkliga tiden. Detta gör jag genom att rotera varje visare en mängd grader baserat på vad tiden är, till exempel om klockan är 11:15 så kommer minut-visaren bli roterad 90 grader: 15*(360/60) = 90&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9xLHAb0.png&quot; alt=&quot;Klocka&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sist men inte minst, &lt;strong&gt;lagt till en fungerande HUD&lt;/strong&gt; till spelarna som visar data om matchen, som vilket rum man är i, och hur många som är inloggade. Kompassen är en lång bild som roteras beroende på hur många grader kameran lutar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5NtT2Fs.png&quot; alt=&quot;HUD&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/oZ2gCfO.png&quot; alt=&quot;Compass&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alfred Loggbok 24]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Jag har hållit på att ändra färg på en textur för att matcha stolarna som vi har i skolan.
+Jag använde…]]></description><link>https://sajber.me/gymnasiearbete//alfred-loggbok-24</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alfred-loggbok-24</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 19 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;Jag har hållit på att ändra färg på en textur för att matcha stolarna som vi har i skolan.
+Jag använde photoshop för att ändra färg på en textur som jag tidigare hade använt.
+Before:
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/782972703140872192/801393111771250688/unknown.png&quot; alt=&quot;enter image description here&quot;&gt;
+After:
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/782972703140872192/801393239239819304/unknown.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;p&gt;Jag la på texturen på stolen och den blev väldigt bra.
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/782972703140872192/801392938366140437/unknown.png&quot; alt=&quot;enter image description here&quot;&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/782972703140872192/801393015050469417/unknown.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Jag gjorde också en vit version eftersom Fabian tyckte att det skulle göra det enklare för honom i unity
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/782972703140872192/801394681682198558/unknown.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra? &lt;/p&gt;
+&lt;p&gt;Nein&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Fortsätta modellera&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 23]]></title><description><![CDATA[Vad har du gjort sen förra loggboken?
+-sen föra logboken så har jag hållit på och texturerat litegran gjort ett staket som finns i…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-23</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-23</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 19 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?
+-sen föra logboken så har jag hållit på och texturerat litegran gjort ett staket som finns i hagahustet. Jag har också använt mej av ett snabbkomando som är ctrl+1 som gör så man
+bara ser det man har selectat vilket blir användbart när man arbetar med mera saker eller bara behöver fokusera på en sak. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/801391562147364884/Screenshot_150.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/801391560507129866/Screenshot_149.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/801391566082146384/Screenshot_151.jpg&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag har fixat lite texturer och det har varit ganska enkelt när man kan isolera dom delar man vill komma åt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vad har gått mindre bra?
+-loopen på mitt staket är inte helt perfekt så jag måste fixa där litegran.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jag ska fortsätta med staketet och fortsätta med små detalier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jag gjorde koridåren lite större då fabian ville göra en sak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/368028804784062467/801391228989603840/unknown.png&quot; alt=&quot;text&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Samuel: Loggbok 15]]></title><description><![CDATA[1. Vad har jag gjort idag? Idag har jag har jag gjort mig mer bekväm med systemet som finns uppsatt i projektet. Jag har kollat på hur jag…]]></description><link>https://sajber.me/gymnasiearbete//samuel-loggbok-15</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//samuel-loggbok-15</guid><category><![CDATA[gymarbete]]></category><category><![CDATA[unity]]></category><pubDate>Tue, 19 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;1. Vad har jag gjort idag?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Idag har jag har jag gjort mig mer bekväm med systemet som finns uppsatt i projektet. Jag har kollat på hur jag ska animera spelaren och började med att försöka få spelaren att hålla i en kniv. &lt;/p&gt;
+&lt;p&gt;Har även försökt göra en annan kod baserad sak. Vilket är att få en text som ska säga vilken knapp du ska trycka på för att plocka upp ett föremål när du tittar på det. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vad ska jag göra nästa gång?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nästa gång tänker jag fortsätta med att animera spelaren att hålla i olika föremål.&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Fabian: Loggbok 23]]></title><description><![CDATA[Idag har jag och Alexander tillsammans kollat igenom byggnaderna vi ska ha i spelet, och texturerat det som saknar texturer. Vi har även…]]></description><link>https://sajber.me/gymnasiearbete//fabian-loggbok-23</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//fabian-loggbok-23</guid><category><![CDATA[unity]]></category><category><![CDATA[inventory]]></category><category><![CDATA[loot]]></category><pubDate>Mon, 18 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Idag har jag och Alexander tillsammans kollat igenom byggnaderna vi ska ha i spelet, och texturerat det som saknar texturer. Vi har även sett till att fixa de övriga modellernas texturer där det behövts. &lt;/p&gt;
 &lt;p&gt;Utöver det här så har jag gjort metoder för att kunna stänga av alla lampor i ett rum automatiskt; detta fungerar genom att spelet hittar rätt RoomNode till det rum man vill stänga av, och sedan hittar spelet alla lampor i den collidern och sätter styrkan till 0.1, så man fortfarande kan se litegrann men den är i stort sett avstängd. Tills nästa vecka ska jag göra klart detta och börja på systemet för hissar och transport i skolan.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/X8te96c.png&quot; alt=&quot;Kod&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Oscar: Loggbok 11]]></title><description><![CDATA[Försökt fixat problem med positionen av lampan etc. där den var rätt i blender men var helt åt fanders i unity.
 Har också försökt fixa…]]></description><link>https://sajber.me/gymnasiearbete//oscar-loggbok-11</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//oscar-loggbok-11</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Mon, 18 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Försökt fixat problem med positionen av lampan etc. där den var rätt i blender men var helt åt fanders i unity.
@@ -42,7 +113,18 @@ Att göra modeller verekliga är ett problem enligt mig då jag skulle vilja lä
 Jag står nu på standby ifall några hög-prio modeller behövs, ifall inga kommer till nästa lektion kommer jag arbeta med brandlarmet.&lt;/p&gt;
 &lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
 Det går bra, vi har varit i ett samtal på dicord hela lektionen.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://media.discordapp.net/attachments/482137548681117717/801071887638593566/unknown.png?width=1120&amp;#x26;height=660&quot; alt=&quot;https://media.discordapp.net/attachments/482137548681117717/801071887638593566/unknown.png?width=1120&amp;#x26;height=660&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 21]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Sen föra loggboken så har fortsätt att fixa småsaker och så har jag testat själva mappen i unity. och…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-21</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-21</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 12 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.discordapp.net/attachments/482137548681117717/801071887638593566/unknown.png?width=1120&amp;#x26;height=660&quot; alt=&quot;https://media.discordapp.net/attachments/482137548681117717/801071887638593566/unknown.png?width=1120&amp;#x26;height=660&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Melwin: Loggbok 27]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Dedan förra loggen har jag arbetat med brandlarmet. Vad har gått bra? Ge exempel på hur du löst…]]></description><link>https://sajber.me/gymnasiearbete//melwin-loggbok-27</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//melwin-loggbok-27</guid><category><![CDATA[tag]]></category><pubDate>Mon, 18 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;br&gt;
+Dedan förra loggen har jag arbetat med brandlarmet.&lt;/p&gt;
+&lt;p&gt;Vad har gått bra? Ge exempel på hur du löst problem!&lt;br&gt;
+Att skapa själva formen och lägga till materials gick bra dock så blev vissa face normals bakvända så behövde flippa de.
+Medan jag håller på med UV på modellen använder jag endast ett solid color material som bas och ett annat material med transparency.&lt;/p&gt;
+&lt;p&gt;Vad har gått mindre bra?&lt;br&gt;
+Eftersom jag extrudade edges för att göra formerna så är hela min UV map en rejäl oreda, Den har massa uv cuts på konstiga edges.&lt;/p&gt;
+&lt;p&gt;Vad ska du jobba med härnäst?
+Jag ska fixa UV mappen.&lt;/p&gt;
+&lt;p&gt;(Hur fungerar samarbetet?)&lt;br&gt;
+Det går bra.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/482137548681117717/801391786122543104/unknown.png&quot; alt=&quot;https://cdn.discordapp.com/attachments/482137548681117717/801391786122543104/unknown.png&quot;&gt;&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Alex Lektionslogg 21]]></title><description><![CDATA[Vad har du gjort sen förra loggboken? Sen föra loggboken så har fortsätt att fixa småsaker och så har jag testat själva mappen i unity. och…]]></description><link>https://sajber.me/gymnasiearbete//alex-lektionslogg-21</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//alex-lektionslogg-21</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Tue, 12 Jan 2021 23:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vad har du gjort sen förra loggboken?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sen föra loggboken så har fortsätt att fixa småsaker och så har jag testat själva mappen i unity. och hittat småsaker som behövde fixas som när två objekt höll på och kolida vilket gjorde
 att det såg objekten strullade med varandra. Sen hade min textur försvunnit på en av våningarna vilket jag fixade ganska snappt genom att &lt;/li&gt;
